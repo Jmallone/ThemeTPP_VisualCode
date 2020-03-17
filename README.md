@@ -23,6 +23,9 @@ Irá abrir um campo de busca, digite TPP que irá aparecer o tema.
 ## Screenshots
 <p align="center">
   <img src="/demo_hanoi.jpg">
-  <img src="/demo1.gif">
-  <img src="/demo2.gif">
+  Figura 1 - Visão geral do highlight.
+  <p><img src="/demo1.gif">
+    <p>Figura 2 - Teste de Função e Comentarios.
+  <p><img src="/demo2.gif">
+    <p>Figura 3 - Teste de Condicionais.
  </p>
